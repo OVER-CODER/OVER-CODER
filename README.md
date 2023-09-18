@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 💬 Ask me about **JS, React, gsap**
+- 💬 Ask me about **JS, React, Svelte, Tailwind**
 
 - 📫 How to reach me **aryanpandit.1205@gmail.com**
 
