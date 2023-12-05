@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan Pandit</h1>
+<h1 align="center">Hi <img src = "C:\Users\Aryan Pandit\OneDrive\Desktop\68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966.gif">, I'm Aryan Pandit</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 - 🔭 I’m currently working on **Artificial Intelligence**
