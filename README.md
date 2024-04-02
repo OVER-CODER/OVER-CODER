@@ -1,11 +1,9 @@
 > <h1 align="center">Hi👋, I'm Aryan Pandit</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Artificial Intelligence**
+- 🌱 I’m currently learning **Backend Development**
 
-- 🌱 I’m currently learning **React Js**
-
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 💬 Ask me about **JS, React, Svelte, Tailwind**
 
